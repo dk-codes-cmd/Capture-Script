@@ -11,6 +11,9 @@ https://github.com/dk-codes-cmd/Capture-Script/assets/173056760/82d45383-0ee7-4b
 How to install
 - download the code 
 - download [ahk](https://www.autohotkey.com/download/)
+- open `.ahk` with a text editor like notepad, notepad++, vs-code, etc.
+- add path to your inbox markdown file e.g C:\Obsidian\Obsidian-Vault\00 - Capture\inbox.md
+- save it.
 - right click on the `.ahk` file and compile GUI add a icon maybe.
 - get the `.exe` and pin it to taskbar
 
